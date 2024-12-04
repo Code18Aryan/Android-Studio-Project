@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Dev Info</string>
+    <string name="welcome_to_aryan_s_learning_hub">Welcome To Aryan\'s Learning Hub</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="contact_me_8709064804">Contact Me 8709064804</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="web_development">Web Development</string>
+    <string name="app_development">App Development</string>
+    <string name="blockchain">Blockchain</string>
+    <string name="web_3">Web 3</string>
+    <string name="any_advice_or_complaint">Any advice or complaint</string>
+    <string name="ai_stands_for_artificial_intelligence_it_refers_to_the_simulation_of_human_intelligence_processes_by_machines_especially_computer_systems_these_processes_include_learning_the_acquisition_of_information_and_rules_for_using_the_information_reasoning_using_rules_to_reach_approximate_or_definite_conclusions_and_self_correction_ai_is_often_categorized_as_either_weak_ai_which_is_designed_for_a_narrow_task_or_strong_ai_which_aims_to_exhibit_general_intelligence_and_can_handle_any_intellectual_task_that_a_human_being_can">AI stands for Artificial Intelligence. It refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. AI is often categorized as either weak AI, which is designed for a narrow task, or strong AI, which aims to exhibit general intelligence and can handle any intellectual task that a human being can.</string>
+    <string name="web_development_refers_to_the_process_of_building_and_maintaining_websites_and_web_applications_it_encompasses_a_variety_of_tasks_and_disciplines_including_web_design_front_end_development_back_end_development_and_web_server_configuration_here_s_a_brief_overview_of_each">Web development refers to the process of building and maintaining websites and web applications. It encompasses a variety of tasks and disciplines, including web design, front-end development, back-end development, and web server configuration. Here\'s a brief overview of each:</string>
+</resources>

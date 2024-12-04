@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    tools:context=".SecondAppDev">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="27sp"
+        android:layout_margin="18dp"
+        android:textColor="@color/darkGreen"
+        android:textStyle="bold"
+        android:text="@string/web_development_refers_to_the_process_of_building_and_maintaining_websites_and_web_applications_it_encompasses_a_variety_of_tasks_and_disciplines_including_web_design_front_end_development_back_end_development_and_web_server_configuration_here_s_a_brief_overview_of_each"
+        />
+
+</LinearLayout>

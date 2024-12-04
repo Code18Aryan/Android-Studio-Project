@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    tools:context=".SecondWeb3">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="27sp"
+        android:layout_margin="18dp"
+        android:textColor="@color/darkGreen"
+        android:textStyle="bold"
+        android:text="Web3 is a concept that represents the vision of a decentralized and user-centric internet, enabled by blockchain and other decentralized technologies. In brief:
+
+Decentralization: Web3 aims to decentralize control away from centralized entities like corporations and governments. It leverages blockchain technology to create trustless systems where users have more control over their data and interactions.
+Interoperability: Web3 promotes interoperability between different decentralized platforms and protocols, allowing users to seamlessly interact with various applications and services without the need for intermediaries."
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

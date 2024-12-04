@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    tools:context=".SecondWeb">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="27sp"
+        android:layout_margin="18dp"
+        android:textColor="@color/darkGreen"
+        android:textStyle="bold"
+        android:text="Web development is the process of building websites and web applications. It involves designing the visual layout, coding the front-end interface, developing the back-end functionality, and configuring the web server. Developers create websites using HTML, CSS, JavaScript, and other programming languages and tools to make them accessible and interactive on the internet."
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

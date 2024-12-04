@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    tools:context=".SecondMachine">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="27sp"
+        android:layout_margin="18dp"
+        android:textColor="@color/darkGreen"
+        android:text="Blockchain is a decentralized and distributed ledger technology that securely records transactions across a network of computers. It uses blocks of data linked together in a chain, ensuring immutability and transparency. Consensus mechanisms validate transactions, and cryptographic techniques ensure security. Blockchain enables applications beyond cryptocurrencies, including smart contracts, supply chain management, healthcare, and more, by providing trust, transparency, and decentralization.
+
+
+"
+        android:textStyle="bold"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

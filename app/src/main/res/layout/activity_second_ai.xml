@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:orientation="vertical"
+    tools:context=".SecondAi">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="27sp"
+        android:layout_margin="18dp"
+        android:textColor="@color/darkGreen"
+        android:textStyle="bold"
+        android:text="@string/ai_stands_for_artificial_intelligence_it_refers_to_the_simulation_of_human_intelligence_processes_by_machines_especially_computer_systems_these_processes_include_learning_the_acquisition_of_information_and_rules_for_using_the_information_reasoning_using_rules_to_reach_approximate_or_definite_conclusions_and_self_correction_ai_is_often_categorized_as_either_weak_ai_which_is_designed_for_a_narrow_task_or_strong_ai_which_aims_to_exhibit_general_intelligence_and_can_handle_any_intellectual_task_that_a_human_being_can"
+         />
+</LinearLayout>
